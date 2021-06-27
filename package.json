@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/Sam-Walters93/symmetrical-bassoon#readme",
   "dependencies": {
+    "cli": "^1.0.1",
     "compression": "^1.7.4",
     "express": "^4.17.1",
+    "heroku": "^7.54.1",
     "mongoose": "^5.12.15",
     "morgan": "^1.10.0",
     "webpack": "^5.40.0",
