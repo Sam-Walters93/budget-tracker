@@ -1,5 +1,6 @@
 module.exports={
   
-    mode:"development"
+    mode:"development",
+    entry: path.resolve(__dirname, 'src') + './server.js',
     
 }
